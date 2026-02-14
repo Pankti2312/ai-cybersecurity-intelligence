@@ -1,4 +1,4 @@
-🔐 AI Cybersecurity Intelligence System
+**🔐 AI Cybersecurity Intelligence System**
 
 An AI-powered cybersecurity threat intelligence platform that automatically detects cyber threats, analyzes vulnerabilities (CVEs), recommends mitigation strategies, and generates structured security reports using AI.
 
