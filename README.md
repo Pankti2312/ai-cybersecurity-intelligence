@@ -103,6 +103,10 @@ python app.py
 - Cloud deployment (AWS)
 - MITRE ATT&CK mapping
 
+## 🎥 Project Demo
+
+![Project Demo](screenshots/demo.gif)
+
 ### ⭐ Acknowledgement
 This project was developed as part of my learning journey in **AI-powered cybersecurity systems and multi-agent AI architectures.**
 
