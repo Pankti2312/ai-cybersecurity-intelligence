@@ -61,10 +61,12 @@ Combines all findings into a structured AI-generated report.
 
 ## 🧰 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript (clean UI)
-- **Backend:** Python / Node.js
-- **AI:** Multi-agent AI architecture
-- **Reports:** AI-generated structured output
+**Backend:** Python  
+**AI Frameworks:** CrewAI, LangChain  
+**LLM:** Groq (LLaMA 3-70B)  
+**APIs:** EXA API  
+**Environment Management:** python-dotenv  
+**Architecture:** Multi-Agent AI System  
 
 ---
 
